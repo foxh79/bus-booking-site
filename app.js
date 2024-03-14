@@ -2,6 +2,7 @@ const bars = document.querySelector('.bars');
 const x = document.querySelector('.x');
 const menu = document.querySelector('nav ul');
 
+//menu bar toggle in small screens
 bars.addEventListener('click', () => {
     menu.style.display = 'flex';
     bars.style.display = 'none';

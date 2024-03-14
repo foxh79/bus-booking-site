@@ -10,6 +10,7 @@ bars.addEventListener('click', () => {
     
 });
 
+//closing the menu bar
 x.addEventListener('click', () => {
     menu.style.display = 'none';
     bars.style.display = 'flex';

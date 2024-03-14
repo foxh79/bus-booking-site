@@ -40,11 +40,6 @@ button {
 body {
     font-family: 'Poppins', sans-serif;
     background: var(--background-primary)
-    /*  
-  font-family: 'Inter', sans-serif;
-  font-family: 'Rubik Mono One', monospace;
-
-  */
 }
 
 .btn {
